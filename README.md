@@ -29,6 +29,10 @@ The mail chimp API isn't functioning properly.
 6. markdown
 
 ## Behaviour Driven Development (BDD)
+Enter your name in the name prompt box.
+Enter your Email Address in the Email Address prompt box.
+Enter your message or comment in the comment prompt box
+Press Submit and a Pop up notification i.e. "Fidelis Momanyi, we have received your message. Thank you for reaching out to us.
 
 ## Support and contact details
 I am currently a sudent at the Moringa School, pursuing a Software in Development.
