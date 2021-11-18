@@ -1,23 +1,36 @@
 # Delani Studios
+
 ### I am Fidelis Momanyi
 ### A student at Moringa School
+
 #### By **Fidelis Momanyi**
+
 ## Description
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. The application tells the user through a pop up notification that their messages have been received and also thanks them for contacting Delani Studios.
+
 ## Setup/Installation Requirements
 * Clone the repository from Github
- git clone https://github.com/FidelisMomanyi/Akan-Names.git
+ git clone https://github.com/FidelisMomanyi/Delani-Studios.git
 * Open the project with your perfect Intergrated Development Environment (IDE)
+
 ## Live link
-https://fidelismomanyi.github.io/Akan-Names/
+
+
 ## Known Bugs
-Not sure about the whole running of the system if you find an issue feel free to correct it.
+    The web application/site is not responsive enough for some devices.
+    The mail chimp API isn't functioning properly.
+
+
 ## Technologies Used
 1. HyperText Markup Language (HTML)
 2. Cascading Style Sheet (CSS)
 3. Global Information Tracker (Git)
-4. Javascript
-5. Bootstrap
+4. Bootstrap
+5. Javascript
+6. markdown
+
+## Behaviour Driven Development (BDD)
+
 ## Support and contact details
 I am currently a sudent at the Moringa School, pursuing a Software in Development.
 Incase of any queries you can reach me at;
