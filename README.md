@@ -17,9 +17,8 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Known Bugs
-    The web application/site is not responsive enough for some devices.
-    The mail chimp API isn't functioning properly.
-
+The web application/site is not responsive enough for some devices.
+The mail chimp API isn't functioning properly.
 
 ## Technologies Used
 1. HyperText Markup Language (HTML)
