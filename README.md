@@ -3,7 +3,8 @@
 ### I am Fidelis Momanyi
 ### A student at Moringa School
 
-#### By **Fidelis Momanyi**
+#### By 
+**Fidelis Momanyi**
 
 ## Description
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. The application tells the user through a pop up notification that their messages have been received and also thanks them for contacting Delani Studios.
