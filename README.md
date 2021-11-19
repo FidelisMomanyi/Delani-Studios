@@ -19,6 +19,7 @@ https://fidelismomanyi.github.io/Delani-Studios/
 ## Known Bugs
 The web application/site is not responsive enough for some devices.
 The mail chimp API isn't functioning properly.
+The footer applications icons are not resposive.
 
 ## Technologies Used
 1. HyperText Markup Language (HTML)
