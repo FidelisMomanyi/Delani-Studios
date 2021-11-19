@@ -14,7 +14,7 @@ This project is a web application for Delani studio that shows details about the
 * Open the project with your perfect Intergrated Development Environment (IDE)
 
 ## Live link
-
+https://fidelismomanyi.github.io/Delani-Studios/
 
 ## Known Bugs
 The web application/site is not responsive enough for some devices.
@@ -35,7 +35,7 @@ Enter your message or comment in the comment prompt box
 Press Submit and a Pop up notification i.e. "Fidelis Momanyi, we have received your message. Thank you for reaching out to us.
 
 ## Support and contact details
-I am currently a sudent at the Moringa School, pursuing a Software in Development.
+I am currently a sudent at the Moringa School, pursuing a Software in Development Course.
 Incase of any queries you can reach me at;
 ## Slack: 
 ```
